@@ -20,6 +20,6 @@ After connecting the Myo, data can be fetched and saved for later processing and
 |:--:| 
 | *3D graph of recorded hand movement from three most important eigenvalues* |
 
-The image above shows a 3D graph of eigenvalues when a particular movement was made. The movement will make a data cluster in someplace on the graph and to detect a movement in real-time, comparing the distance between real-time fetched location with clusters middle one. The one with minimal value will be considered as the right one.
+The image above shows a 3D graph of eigenvalues when a particular movement was made. The movement will make a data cluster in someplace on the graph and to detect a movement in real-time, by comparing the distance between real-time fetched location with clusters middle one. The one with minimal value will be considered as the right one.
 
 This project is made for educational and academic purposes.
