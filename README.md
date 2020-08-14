@@ -1,6 +1,6 @@
 # Neuro-Myo-PCA
 
-This project demonstrates the usage of the Myo armband and Principe component analysis (PCA) algorithm. When Myo armband is placed on forearm, program can detect various hand gestures from trained data based on muscle movements. The main flaw of this approach is that this way when Myo armband is moved, user has to recalibrate program data. The whole project is made for a better understanding of how does the PCA algorithm works, and how to use it for dimensionality-reduction on a practical problem. The project is using [Myo armband's API](https://support.getmyo.com/hc/en-us) and [Accord.NET Framework](http://accord-framework.net/).
+This project demonstrates the usage of the Myo armband and Principal component analysis (PCA) algorithm. When Myo armband is placed on forearm, program can detect various hand gestures from trained data based on muscle movements. The main flaw of this approach is that this way when Myo armband is moved, user has to recalibrate program data. The whole project is made for a better understanding of how does the PCA algorithm works, and how to use it for dimensionality-reduction on a practical problem. The project is using [Myo armband's API](https://support.getmyo.com/hc/en-us) and [Accord.NET Framework](http://accord-framework.net/).
 
 | ![image_1.png](https://github.com/igradeca/Neuro-Myo-PCA/blob/master/image_1.png) | 
 |:--:| 
