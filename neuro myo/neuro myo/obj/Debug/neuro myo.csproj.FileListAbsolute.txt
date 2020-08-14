@@ -1,0 +1,22 @@
+E:\Workspaces\FERI\semestar II\Neuro nano in kvantno racunalnistvo\neuro myo\neuro myo\bin\Debug\Accord.dll.config
+E:\Workspaces\FERI\semestar II\Neuro nano in kvantno racunalnistvo\neuro myo\neuro myo\bin\Debug\neuro myo.exe.config
+E:\Workspaces\FERI\semestar II\Neuro nano in kvantno racunalnistvo\neuro myo\neuro myo\bin\Debug\neuro myo.exe
+E:\Workspaces\FERI\semestar II\Neuro nano in kvantno racunalnistvo\neuro myo\neuro myo\bin\Debug\neuro myo.pdb
+E:\Workspaces\FERI\semestar II\Neuro nano in kvantno racunalnistvo\neuro myo\neuro myo\bin\Debug\Accord.dll
+E:\Workspaces\FERI\semestar II\Neuro nano in kvantno racunalnistvo\neuro myo\neuro myo\bin\Debug\Accord.Math.Core.dll
+E:\Workspaces\FERI\semestar II\Neuro nano in kvantno racunalnistvo\neuro myo\neuro myo\bin\Debug\Accord.Math.dll
+E:\Workspaces\FERI\semestar II\Neuro nano in kvantno racunalnistvo\neuro myo\neuro myo\bin\Debug\Accord.Statistics.dll
+E:\Workspaces\FERI\semestar II\Neuro nano in kvantno racunalnistvo\neuro myo\neuro myo\bin\Debug\Accord.xml
+E:\Workspaces\FERI\semestar II\Neuro nano in kvantno racunalnistvo\neuro myo\neuro myo\bin\Debug\Accord.Math.xml
+E:\Workspaces\FERI\semestar II\Neuro nano in kvantno racunalnistvo\neuro myo\neuro myo\bin\Debug\Accord.Math.Core.xml
+E:\Workspaces\FERI\semestar II\Neuro nano in kvantno racunalnistvo\neuro myo\neuro myo\bin\Debug\Accord.Statistics.xml
+E:\Workspaces\FERI\semestar II\Neuro nano in kvantno racunalnistvo\neuro myo\neuro myo\obj\Debug\neuro_myo.MainForm.resources
+E:\Workspaces\FERI\semestar II\Neuro nano in kvantno racunalnistvo\neuro myo\neuro myo\obj\Debug\neuro_myo.Properties.Resources.resources
+E:\Workspaces\FERI\semestar II\Neuro nano in kvantno racunalnistvo\neuro myo\neuro myo\obj\Debug\neuro myo.csproj.GenerateResource.Cache
+E:\Workspaces\FERI\semestar II\Neuro nano in kvantno racunalnistvo\neuro myo\neuro myo\obj\Debug\neuro myo.exe
+E:\Workspaces\FERI\semestar II\Neuro nano in kvantno racunalnistvo\neuro myo\neuro myo\obj\Debug\neuro myo.pdb
+E:\Workspaces\FERI\semestar II\Neuro nano in kvantno racunalnistvo\neuro myo\neuro myo\obj\Debug\neuro myo.csprojResolveAssemblyReference.cache
+E:\Workspaces\FERI\semestar II\Neuro nano in kvantno racunalnistvo\neuro myo\neuro myo\obj\Debug\neuro_myo.RenameMovementForm.resources
+E:\Workspaces\FERI\semestar II\Neuro nano in kvantno racunalnistvo\neuro myo\neuro myo\obj\Debug\neuro_myo.SetPCAForm.resources
+E:\Workspaces\FERI\semestar II\Neuro nano in kvantno racunalnistvo\neuro myo\neuro myo\obj\Debug\Interop.MLApp.dll
+E:\Workspaces\FERI\semestar II\Neuro nano in kvantno racunalnistvo\neuro myo\neuro myo\obj\Debug\neuro myo.csproj.ResolveComReference.cache
